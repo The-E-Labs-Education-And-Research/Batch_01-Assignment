@@ -1,0 +1,13 @@
+* print number 11 in various formats e.g. dec, hex (capital/small), octal 
+   also you can take input from user for the number using scanf*
+   
+   
+   #include<stdio.h>
+   int main
+   {
+   int a =11;
+   
+   printf("%d",a);
+   
+   return 0;
+   }
